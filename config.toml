@@ -1,0 +1,22 @@
+baseURL = "http://www.japandreamin.com/"
+languageCode = "ja-jp"
+theme = "gohugo-theme-ananke"
+title = "Japan Dreamin'"
+
+[params]
+ description = "A largest Salesforce community-driven conference in Japan"
+ short_description = "Stay Tuned"
+
+ place_icon = "img/address_icon.svg"
+ place = "Tokyo"
+ place_detail = "TBA"
+
+ date_icon = "img/calendar_icon.svg"
+ date = "January 25th"
+ year = "2020"
+
+ twitter = "https://www.twitter.com/japandreamin/"
+
+ custom_css = ["css/custom.css"]
+ nav_logo = "img/nav_logo.png"
+ featured_image = "img/background.jpg"
