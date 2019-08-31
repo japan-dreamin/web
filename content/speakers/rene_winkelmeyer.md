@@ -3,7 +3,7 @@ key: rené_winkelmeyer
 name: René Winkelmeyer
 id: 
 feature: true
-title: Pricipal Developer Evangelist
+title: Principal Developer Evangelist
 company: Salesforce
 city: 'Germany'
 photoURL: /images/speakers/rene_winkelmeyer.jpg
