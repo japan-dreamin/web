@@ -29,6 +29,7 @@ input[type=button], input[type=reset], input[type=submit] {
     text-shadow: var(--extruded-dark);
     --focus-color: var(--lighten-1);
     --active-color: var(--lighten-1);
+    border-color: var(--primary-txt);
   }
 
   // Icons
