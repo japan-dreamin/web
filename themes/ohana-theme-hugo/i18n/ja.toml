@@ -59,8 +59,10 @@ other = "Become partner"
 other = "Partnership Proposition"
 
 [footer_coc]
-other = "Code of Conduct"
+other = "行動規範 (Code of Conduct)"
 
+[footer_pp]
+other = "プライバシーポリシー"
 
 ################
 # Subscription #

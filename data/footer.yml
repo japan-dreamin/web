@@ -17,6 +17,9 @@ content:
       - nameKey: footer_coc
         url: /code-of-conduct/
         newTab: false
+      - nameKey: footer_pp
+        url: /privacy-policy/
+        newTab: false
 
   - title: footer_previous_edition
     links:
