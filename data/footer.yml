@@ -12,7 +12,7 @@ content:
   - title: footer_about
     links:
       - name: Japan Trailblazer Community Groups
-        url: https://trailblazers.jp
+        url: http://trailblazers.jp
         newTab: true
       - nameKey: footer_coc
         url: /code-of-conduct/
