@@ -78,7 +78,7 @@ Japan Dreamin' は Salesforce のコミュニティカンファレンスです�
            ends="2020-01-17"
            price="¥1,000"
            info="一般参加枠"
-           soldOut="false"
+           close="true"
            url="www.google.com" >}}</li>
 </ul>
 

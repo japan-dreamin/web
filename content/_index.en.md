@@ -78,7 +78,7 @@ Japan Dreamin’ is a 'glocal' Salesforce community conference in Japan. Trailbl
            ends="2020-01-17"
            price="¥1,000"
            info="General"
-           soldOut="false"
+           close="true"
            url="www.google.com" >}}</li>
 </ul>
 
