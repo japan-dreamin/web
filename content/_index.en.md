@@ -71,6 +71,7 @@ Japan Dreamin’ is a 'glocal' Salesforce community conference in Japan. Trailbl
 <!--
 <a class="btn primary" href="TICKET_URL" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
 -->
+Ticket comes out on October!
 
 <ul>
 <li>{{< ticket name="Normal"
