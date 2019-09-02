@@ -1,10 +1,15 @@
 
-.page.code-of-conduct {
+.page.code-of-conduct,
+.page.privacy-policy {
 
 
   main h1, #TableOfContents, main .content {
     max-width: var(--theJdrSize);
-    /* margin: 0 auto; */
+    margin: auto;
+  }
+
+  main h1 {
+    padding-left:0;
   }
 
 
