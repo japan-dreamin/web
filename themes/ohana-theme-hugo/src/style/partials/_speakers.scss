@@ -37,11 +37,26 @@
       margin: var(--space-1);
     }
 
+    .speaker-title,
+    .speaker-country {
+      font-weight: 200;
+      opacity: .8;
+      margin: var(--space-1);
+      text-align: center;
+    }
+
     .speaker-company {
       font-weight: 200;
       opacity: .8;
       margin: var(--space-1);
     }
+    
+    .speaker-company::before {
+      content: 'at ';
+    }
 
+    .speaker-country {
+      font-size: .875rem;
+    }
   }
 }
