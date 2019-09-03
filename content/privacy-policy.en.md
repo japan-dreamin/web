@@ -3,7 +3,7 @@ title : Privacy Policy
 draft : false
 ---
 
-We treat the attendees' personal information with the greatest care, based on the following policy.
+We treat the participants' personal information with the greatest care, based on the following policy.
 
 ## 1. Purpose
 
@@ -16,7 +16,7 @@ We may use the personal information we collect through the event only for the fo
 During the event, the organizers and volunteer staff will take photographs. Attendees may appear in the photo. They may be posted during the event or after the event only for the purpose of introducing the event via our website or Twitter account. However, photos will not be posted in association with personal information without your permission.
 
 ## 2. Provision of Personal Information to Third Parties.
-We will never disclose or provide personal information to third parties retrieved from the attendees, except for the following.
+We will never disclose or provide personal information to third parties retrieved from the participants, except for the following.
 
 * If you have the consent of the disclosure of personal information.
 * In case of the request from public agencies like police, court, etc.
