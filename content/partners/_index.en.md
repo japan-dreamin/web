@@ -11,8 +11,8 @@ draft: false
 
 If you wish to become a sponsor, contact us at
 
-{{< button-link label="sfindiadreamin@gmail.com"
-                url="sfindiadreamin@gmail.com"
+{{< button-link label="sfjapandreamin@gmail.com"
+                url="sfjapandreamin@gmail.com"
                 icon="email" >}} 
 
 

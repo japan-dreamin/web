@@ -11,8 +11,8 @@ draft: false
 
 スポンサーの募集は2019年10月以降を予定しています。お問い合わせは以下メールアドレスまでお願いします。
 
-{{< button-link label="sfindiadreamin@gmail.com"
-                url="sfindiadreamin@gmail.com"
+{{< button-link label="sfjapandreamin@gmail.com"
+                url="sfjapandreamin@gmail.com"
                 icon="email" >}} 
 
 {{% /hero %}}
