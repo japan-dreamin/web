@@ -12,7 +12,7 @@ draft: false
 If you wish to become a sponsor, contact us at
 
 {{< button-link label="sfjapandreamin@gmail.com"
-                url="sfjapandreamin@gmail.com"
+                url="mailto:sfjapandreamin@gmail.com"
                 icon="email" >}} 
 
 

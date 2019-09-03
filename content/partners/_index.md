@@ -12,7 +12,7 @@ draft: false
 スポンサーの募集は2019年10月以降を予定しています。お問い合わせは以下メールアドレスまでお願いします。
 
 {{< button-link label="sfjapandreamin@gmail.com"
-                url="sfjapandreamin@gmail.com"
+                url="mailto:sfjapandreamin@gmail.com"
                 icon="email" >}} 
 
 {{% /hero %}}
