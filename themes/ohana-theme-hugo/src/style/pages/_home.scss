@@ -16,17 +16,23 @@
   .info {
     display: flex;
     flex-wrap: wrap;
+    
+    @include mq($until: md) {
+      text-align: center;
+    }
 
     .wrapper {
       max-width: var(--theJdrSize);
       margin: 0 auto;
       display: flex;
+
+      @include mq($until: md) {
+      flex-wrap: wrap;
+      flex-direction: column;
+      }
     }
 
-    @include mq($until: md) {
-      text-align: center;
-    }
-
+    
     .inner {
       flex: 1 1 auto;
       max-width: 33vw;
@@ -36,6 +42,7 @@
 
       @include mq($until: xl) {
         max-width: 100%;
+        flex: 1 0 auto;
       }
     }
 
@@ -49,6 +56,7 @@
 
       @include mq($until: md) {
         margin: 0;
+        flex: 1  auto;
       }
     }
 
