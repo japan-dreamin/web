@@ -47,11 +47,10 @@ Japan Dreamin' は Salesforce のコミュニティカンファレンスです�
                 url="CALL_FOR_SPEAKERS_URL"
                 icon="cfp" >}}
 --> 
-<!--
 {{< button-link label="See all speakers"
                 url="./speakers"
                 icon="right" >}}
--->
+
 
 {{% /home-speakers %}}
 

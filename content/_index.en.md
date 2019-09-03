@@ -47,11 +47,9 @@ Japan Dreamin’ is a 'glocal' Salesforce community conference in Japan. Trailbl
                 url="CALL_FOR_SPEAKERS_URL"
                 icon="cfp" >}}
 --> 
-<!--
 {{< button-link label="See all speakers"
                 url="./speakers"
                 icon="right" >}}
--->
 
 {{% /home-speakers %}}
 
