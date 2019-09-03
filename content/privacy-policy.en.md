@@ -1,28 +1,33 @@
 ---
-title : プライバシーポリシー
+title : Privacy Policy
 draft : false
 ---
 
-Japan Dreamin' の申込時にご提供いただく個人情報は以下のように取り扱います。
+We treat the attendees' personal information with the greatest care, based on the following policy.
 
-## 1. 個人情報の利用目的
+## 1. Purpose
 
-以下の目的の達成に必要な範囲で個人情報を収集し、利用いたします。
+We may use the personal information we collect through the event only for the following purposes.
 
-* Japan Dreamin'の参加有無の確認、および情報提供
-* 日本のTrailblazer Community Groupが主催または共催する勉強会やイベントのご案内
-* アンケートの結果の収集と分析
+* Attendance of Japan Dreamin'.
+* To inform the update of this event.
+* To collect and analyze survey results for this event.
 
-## 2. 個人情報の第三者への提供
-個人情報は、本人の事前の許可なくJapan Dreamin' および株式会社セールスフォース・ドットコム以外の第三者への提供（または開示）はいたしません。ただし、次の場合は除きます。
+During the event, the organizers and volunteer staff will take photographs. Attendees may appear in the photo. They may be posted during the event or after the event only for the purpose of introducing the event via our website or Twitter account. However, photos will not be posted in association with personal information without your permission.
 
-* 本人の同意がある場合
-* 法令に基づき開示することが必要である場合
-* 人の生命、身体又は財産の保護のために必要がある場合
+## 2. Provision of Personal Information to Third Parties.
+We will never disclose or provide personal information to third parties retrieved from the attendees, except for the following.
 
-## 3. お問合せ窓口
-個人情報の取扱に関するお問い合せは下記までご連絡ください。<br />
+* If you have the consent of the disclosure of personal information.
+* In case of the request from public agencies like police, court, etc.
+* In case of the application of the law
+
+## 3. Compliance with laws and regulations and continuous improvement
+We comply with Japanese laws and other standards that apply to personal information it holds and will review and improve the content of this policy as appropriate.
+
+## 4. Who controls the personal information
+Japan Dreamin' core organizer team.
+
+## 5. Inquiry
+Contact us if you have any queries about the privacy policy. <br/>
 <sfjapandreamin@gmail.com>
-
-## 4. 個人情報の管理者
-Japan Dreamin' 運営委員会
