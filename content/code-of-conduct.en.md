@@ -1,32 +1,31 @@
 ---
-title: 行動規範 (Code of Conduct)
+title: Code of Conduct
 
 draft: false
 ---
 
-Japan Dreamin' に参加される全ての皆様は、以下の行動規範を順守するよう心がけてください。これは、オフラインオンラインともに有効な行動規範です。
+All the participants in Japan Dreamin' is encouraged to comply with the following code of conduct. This is applied for both offline and online.
 
-## 1. 背景と目的
+## 1. Background and purpose
 
-Trailblazerとは「先駆者」という意味を持っていて、Salesforceテクノロジーを駆使してビジネスを改革する先駆者の方々に対して敬意を持って使われています。そしてSalesforce Trailblazer Communityは、ビジネスユーザから管理者、開発者まで全てのSalesforce Trailblazerが集まるコミュニティです。Japan Dreamin' はSalesforce Trailblazer Communityが掲げる以下の指針(コンセプト)を支持しています。
+Trailblazer means "a pioneer, an innovator" and is used with respect for those who are reforming their business using Salesforce technology. And Salesforce Trailblazer Community is a community where all Salesforce Trailblazer gathers regardless of the position or role such as business users to managers and developers. Japan Dreamin' supports the following concepts by the Salesforce Trailblazer Community.
 
-**Ohana** : ハワイ語で家族を意味するOhanaの精神に基づき、思想・人種・企業や団体・性別など個人の個性に関係なく繋がり、個人ではできない成長・発見を共有し合えることを喜びとします。
+**Ohana** : Based on the spirit of Ohana (Hawaiian family), we are delighted to be able to connect regardless of individual personalities, such as thought, race, company, organization, gender, etc., and share growth and discovery that cannot be done by individuals.
 
-**One Salesforce** : 私たちはSalesforceテクノロジーが様々な人々のイノベーションを手助けできることを知っています。利用している製品や開発者や管理者、ユーザ、経営者、一般社員といったロールや役職などの枠にとらわれず、自由にコミュニケーションをとり、お互いが成長できるように活動します。
+**One Salesforce** : We know that Salesforce technology can help people innovate regardless of the roles and positions of products, developers, managers, users, managers, general employees, etc. We will communicate and act freely to grow up together.
 
-**Be A Trailblazer** : Salesforceを利用するだけで全てがうまく行くわけではありません。私たちは常にチャレンジを忘れず、イノベーションを起こす先駆者であり続けます。
+**Be A Trailblazer** : Just using Salesforce doesn't mean everything goes well. We will never stop the challenges, and we will continue to be pioneers of innovation.
 
-Japan Dreamin' に参加するすべての人達に対して、インクルーシブで友好的で心地よい環境を提供するため、すべての参加者が本行動規範に則って、他の参加者に対して敬意と礼儀をもってイベントに参加いただくことを期待しています。
+To provide an inclusive, friendly and comfortable environment for all participants in Japan Dreamin', we expect that everyone will participate in the event with respect and courtesy of other participants following this Code of Conduct.
 
-## 2. 行動
-Japan Dreamin' では経験の程度、性同一性及び表現、性的指向、障害、容姿、身体の大きさ、人種、民族、年齢、宗教、国籍又は他の同様の特徴にかかわらず、全ての参加者に対し、友好的で、安全で、歓迎される環境を提供することを約束します。そのために、他の参加者が不快に感じる行為はそれがどのような形であっても許容いたしません。
+## 2. Behavior
+At Japan Dreamin', we promise to provide a friendly, safe and welcoming environment for all the attendees regardless of the degree of experience, gender identity and expression, sexual orientation, disability, appearance, physical size, race, ethnicity, age, religion, nationality, and/or other similar characteristics. Thus, any behavior that other attendees feel uncomfortable will not be tolerated in any way.。
 
-参加者の皆さまは他の参加者の様々な背景に配慮してください。あなたの何気ない発言や行動で悲しむ人がいるかもしれません。注意深く、優しく振る舞ってください。
+Participants should consider the various backgrounds of other participants. Your casual remarks and actions may sadden others. Please behave carefully and gently.
 
-我々運営は参加者の皆さまの権利を守るため、規範に反する方へ注意だけではなくカンファレンスから退場させたり、場合によっては法的機関への相談など、適切と思われる対応をおこないます。
+If a participant engages in harassing behavior, we organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
-もしあなた、ないしは他の参加者がハラスメント行為を受けた場合、お近くの Japan Dreamin' スタッフにご相談ください。お知らせ頂いた内容は法的な情報開示の必要性がある場合を除いて、同意がない限り匿名で扱います。
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact organizers or volunteer staff. We will treat the notification anonymously unless you agree except for a need for legal information disclosure.
 
-## 3. ロゴについて
-
-Japan Dreamin' のロゴの著作権は原作者に帰属します。ロゴの使用は、当コミュニティカンファレンスの紹介を目的として使用する場合に限り、自由にお使いいただけます。原作者および運営の許可なくロゴを変形、加工、改変すること、および営利目的で利用することは禁止されます。
+## 3. Logo
+The copyright of Japan Dreamin's logo belongs to the original author. The logo can be used freely only for the purpose of introducing this community conference. It is forbidden to transform, process, modify or use the logo for commercial purposes without permission of the original author or administration.
