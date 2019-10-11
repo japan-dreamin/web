@@ -4,8 +4,8 @@ name: Nana Eto
 id: 
 feature: true
 title: 'Salesforce MVP'
-company: Maxhills
-city: 'Osaka'
+company: SATO CORPORATION
+city: 'Tokyo'
 photoURL: /images/speakers/nana_eto.jpg
 socials:
   - icon: twitter
