@@ -67,3 +67,17 @@ a, a:visited {
 body > main > section.container, body > header.container, body > footer.container {
   padding: 4rem var(--container-margin);
 }
+
+table.partners {
+  border-collapse: collapse;
+  border:1px solid var(--base-text);
+  margin-bottom: 1em;
+}
+
+table.partners td,
+table.partners th {
+  border-collapse: collapse;
+  border:1px solid var(--base-text);
+  padding-left: 1em;
+  padding-right: 1em;
+}
