@@ -14,7 +14,7 @@ enableMissingTranslationPlaceholders = true
 [params]
     title = "Japan Dreamin' 2020"
     date = "2019-10-03"
-    description = "Japan Dreamin' is a ‘glocal’ Salesforce community conference in Japan. Trailblazers in various roles and regions gather, learn, and connect. Don't miss this educational and inspirational event!"
+    description = "Japan Dreamin' はSalesforceのコミュニティが主催するカンファレンスイベントです。"
     images = ["/images/logos/social-share.png"]
     email = "sfjapandreamin@gmail.com"
     keywords = "event, salesforce, technology, web, cloud, trailblazer"
