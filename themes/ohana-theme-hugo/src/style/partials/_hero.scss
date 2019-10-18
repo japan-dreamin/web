@@ -10,4 +10,12 @@
     border-top: thin solid var(--darken-1);
     border-bottom: thin solid var(--darken-1);
   }
+
+  a {
+    color: var(--primary);
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
 }
