@@ -26,6 +26,7 @@ Japan Dreamin' のスポンサーシップは、ただお金の支援のみで�
       <th>共通特典</th>
       <th>懇親会セッション</th>
       <th>ランチセッション</th>
+      <th>予定枠数</th>
     </tr>
   </thead>
   <tbody>
@@ -35,6 +36,7 @@ Japan Dreamin' のスポンサーシップは、ただお金の支援のみで�
       <td>○</td>
       <td></td>
       <td></td>
+      <td>5</td>
     </tr>
     <tr>
       <td>懇親会枠</td>
@@ -42,6 +44,7 @@ Japan Dreamin' のスポンサーシップは、ただお金の支援のみで�
       <td>○</td>
       <td>○</td>
       <td></td>
+      <td>2</td>
     </tr>
     <tr>
       <td>ランチセッション枠</td>
@@ -49,6 +52,7 @@ Japan Dreamin' のスポンサーシップは、ただお金の支援のみで�
       <td>○</td>
       <td></td>
       <td>○</td>
+      <td>4</td>
     </tr>
   </tbody>
 </table>
