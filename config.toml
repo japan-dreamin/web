@@ -8,6 +8,7 @@ theme = "ohana-theme-hugo"
 enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
+hasCJKLanguage = true
 
 # googleAnalytics = "UA-XXXXXXXX-X"
 
