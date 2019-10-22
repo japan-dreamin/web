@@ -11,7 +11,7 @@
     }
 
     h1 {
-      color: var(--primary);
+      color: var(--secondary);
       padding-left: 0;
       padding-right: 0;
       small {
@@ -44,9 +44,9 @@
     }
 
     h1,h2,h3,h4,h5,h6 {
-      color: var(--primary);
+      color: var(--secondary);
       font-style: normal;
-      font-weight: 400;
+      font-weight: 600;
     }
 
     h1, h2, h3 {
@@ -62,7 +62,7 @@
     p {
       text-align: justify;
       margin-bottom: 1.5rem;
-      line-height: 1.7rem;
+      line-height: 1.5rem;
     }
 
     ul {
