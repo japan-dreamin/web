@@ -47,12 +47,12 @@ Japan Dreamin' のスポンサーシップは、ただお金の支援のみで�
       <td>2</td>
     </tr>
     <tr>
-      <td>ランチセッション枠</td>
-      <td>¥100,000</td>
-      <td>○</td>
+      <td><del>ランチセッション枠</del></td>
+      <td><del>¥100,000</del></td>
+      <td><del>○</td>
       <td></td>
-      <td>○</td>
-      <td>4</td>
+      <td><del>○</del></td>
+      <td><del>4</del></td>
     </tr>
   </tbody>
 </table>
