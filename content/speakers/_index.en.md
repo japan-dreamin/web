@@ -11,7 +11,7 @@ draft: false
 
 Share your knowledge, insights and experience in Japan Dreamin' 2020!
 
-* **Due Date** : November 15th
+* **Due Date** : November 15th, 23:59 JST
 
 
 {{< button-link label="Go to Submission Form"
