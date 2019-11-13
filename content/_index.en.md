@@ -10,7 +10,7 @@ menu:
 {{% jumbo img="/images/backgrounds/bg-2019-3.jpg" imgLabel="Japan Dreamin'" %}}
 
 ## January 25th, 2020
-### TBA, Shibuya, Tokyo
+### Abema Towers, Shibuya, Tokyo
 
 <!--
  <a class="btn primary btn-lg" style="margin-top: 1em;" href="CALL_FOR_SPONSOR_URL" target="_blank">Become a sponsor</a> 
