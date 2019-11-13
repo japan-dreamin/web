@@ -69,7 +69,7 @@ Japan Dreamin’ is a 'glocal' Salesforce community conference in Japan. Trailbl
 <!--
 <a class="btn primary" href="TICKET_URL" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
 -->
-Ticket comes out on October!
+Ticket comes out on November!
 
 <ul>
 <li>{{< ticket name="Normal"
@@ -88,21 +88,19 @@ Lunch is included in the ticket. Credit card transaction fee (3.5%) will be addi
 
 <!-- ... -->
 
-<!-- 
 {{% home-location
-    image="/images/map.jpg"
-    address=""
-    latitude=""
-    longitude="" %}}
+    image="/images/map.en.png"
+    address="PLACE"
+    query="Abema Towers" %}}
 
-## The venue
+## The Venue
 
-### Location Name
+### Abema Towers
 
-Location Description
+<!--Location Description-->
+40-1, Udagawacho, Shibuya City, Tokyo, 150-0042
 
 {{% /home-location %}}
--->
 
 <!-- ... -->
 

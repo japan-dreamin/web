@@ -70,7 +70,7 @@ Japan Dreamin' は Salesforce のコミュニティカンファレンスです�
 <!--
 <a class="btn primary" href="TICKET_URL" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
 -->
-チケットは10月以降に販売開始予定です！
+チケットは11月中に販売開始予定です！
 
 <ul>
 <li>{{< ticket name="Normal"
@@ -89,21 +89,20 @@ Japan Dreamin' は Salesforce のコミュニティカンファレンスです�
 
 <!-- ... -->
 
-<!-- 
 {{% home-location
-    image="/images/map.jpg"
+    image="/images/map.png"
     address="PLACE"
-    latitude="XX.X"
-    longitude="XX.X" %}}
+    query="Abema Towers" %}}
 
-## The venue
+## 会場
 
-### Location Name
+### Abema Tower
 
-Location Description
+<!--Location Description-->
+〒150-0042 東京都渋谷区宇田川町40-1
 
 {{% /home-location %}}
--->
+
 
 <!-- ... -->
 
