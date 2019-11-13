@@ -69,22 +69,18 @@ Japan Dreamin’ is a 'glocal' Salesforce community conference in Japan. Trailbl
 <!--
 <a class="btn primary" href="TICKET_URL" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
 -->
-Ticket comes out on November!
+Tickets are available! You'll be redirect to the external payment page.
 
 <ul>
 <li>{{< ticket name="Normal"
-           starts="2019-10-01"
-           ends="2020-01-17"
-           price="¥1,000"
-           info="General"
-           close="true"
-           url="www.google.com" >}}</li>
+           starts="2019-11-12"
+           ends="2020-01-23"
+           price="1,200 JPY"
+           info="General Admission"
+           url="https://japandreamin.doorkeeper.jp/events/98845?locale=en&switch_locale=true" >}}</li>
 </ul>
 
-Lunch is included in the ticket. Credit card transaction fee (3.5%) will be additionally charged. For more information about the ticket, see FAQ - Ticket.
-
 {{% /home-tickets %}}
-
 
 <!-- ... -->
 

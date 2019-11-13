@@ -70,19 +70,17 @@ Japan Dreamin' は Salesforce のコミュニティカンファレンスです�
 <!--
 <a class="btn primary" href="TICKET_URL" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
 -->
-チケットは11月中に販売開始予定です！
+当日のイベント参加にはチケットが必要です。チケットの購入は以下の [チケットを購入する] ボタンからお願いします。
+<br>※ 外部サイト (Doorkeeper) へ遷移します。
 
 <ul>
 <li>{{< ticket name="Normal"
-           starts="2019-10-01"
-           ends="2020-01-17"
-           price="¥1,000"
+           starts="2019-11-12"
+           ends="2020-01-23"
+           price="¥1,200"
            info="一般参加枠"
-           close="true"
-           url="www.google.com" >}}</li>
+           url="https://japandreamin.doorkeeper.jp/events/98845" >}}</li>
 </ul>
-
-チケット代にはランチが含まれます。
 
 {{% /home-tickets %}}
 
