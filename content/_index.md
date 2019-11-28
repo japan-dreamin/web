@@ -12,9 +12,8 @@ menu:
 ## January 25th, 2020
 ### Abema Towers, Shibuya, Tokyo 
 
-<!--
- <a class="btn primary btn-lg" style="margin-top: 1em;" href="CALL_FOR_SPONSOR_URL" target="_blank">Become a sponsor</a> 
- -->
+
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://japandreamin.doorkeeper.jp/events/98845" target="_blank">今すぐ参加申込</a> 
 
 <!--
 <a class="btn primary btn-lg" href="CALL_FOR_SPEAKERS_URL">
@@ -29,7 +28,7 @@ menu:
 {{% home-info what="Participants:400+,Day:1,Sessions:30+,Parallel Tracks:4" class="primary" %}}
 ## Japan Dreamin' について
 
-Japan Dreamin' は Salesforce のコミュニティカンファレンスです。ビジネスユーザ・システム管理者・開発者・アーキテクト・マーケター・中の人・Salesforce に関わる全ての人が組織や役割を超えて繋がることのできるイベントです。国内外の著名スピーカーによるセッションの他、ハンズオンや参加者同士が楽しめるアクティビティをお届けします。
+Japan Dreamin' は Salesforce のコミュニティカンファレンスです。ビジネスユーザ・システム管理者・開発者・アーキテクト・マーケター・Salesforce 社員・Salesforce に関わる全ての人が組織や役割を超えて繋がることのできるイベントです。国内外の著名スピーカーによるセッションの他、ハンズオンや参加者同士が楽しめるアクティビティをお届けします。
 {{% /home-info %}}
 
 
