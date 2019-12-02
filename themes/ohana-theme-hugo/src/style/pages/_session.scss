@@ -1,7 +1,11 @@
 
 .talk {
+  max-width: var(--theJdrSize);
+  margin-left: auto;
+  margin-right: auto;
+
   .complexity::before {
-    content: 'Niveau : ';
+    content: 'Level : ';
   }
 
   .type::before {
@@ -74,6 +78,7 @@
       border-top: thin solid var(--darken-1);
       border-bottom: thin solid var(--darken-1);
       //display: flex;
+      overflow: auto;
     }
 
     .content {
