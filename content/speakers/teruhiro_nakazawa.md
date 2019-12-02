@@ -2,7 +2,7 @@
 key: teruhiro_nakazawa
 name: Teruhiro Nakazawa
 id: 
-feature: false
+feature: true
 title: 
 company: Salesforce
 city: Tokyo
