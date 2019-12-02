@@ -2,7 +2,7 @@
 key: scheduled_flow
 title: 3 Ways to Run Flows on Multiple Records
 language: English
-format: quickie
+format: short
 tags:
   - astro
 level: intermediate

@@ -2,7 +2,7 @@
 key: presentation_material
 title: これで差がつく！プレゼン資料の作り方
 language: Japanese
-format: conference
+format: long
 tags:
   - einstein
 level: beginner

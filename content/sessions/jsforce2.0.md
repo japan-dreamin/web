@@ -2,7 +2,7 @@
 key: jsforce_2_0
 title: Introducing JSforce 2.0
 language: Japanese
-format: conference
+format: long
 tags:
   - codey
 level: advanced

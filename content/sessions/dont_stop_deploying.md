@@ -2,7 +2,7 @@
 key: dont_stop_deploying
 title: Don't Stop Deploying!! SFDX時代のデプロイ体験 リターンズ
 language: Japanese
-format: conference
+format: long
 tags:
   - codey
 level: advanced
