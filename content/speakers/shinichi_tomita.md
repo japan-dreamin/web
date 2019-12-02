@@ -3,7 +3,7 @@ key: shinichi_tomita
 name: Shinichi Tomita
 id: 
 feature: true
-title: 
+title: CEO
 company: Mashmatrix, Inc.
 city: Tokyo
 photoURL: /images/speakers/shinichi_tomita.jpg
