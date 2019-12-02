@@ -67,6 +67,8 @@
       .talks {
         padding-left: 0;
         list-style: none;
+        max-width: var(--block-text-max-width);
+        margin: 1rem auto;
 
         .talk {
           border: thin solid var(--darken-1);
