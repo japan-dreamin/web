@@ -7,9 +7,6 @@ menu:
 draft: false
 ---
 {{% hero %}}
-## Become a Speaker
-
-Speaker submission is closed.
 
 {{% /hero %}}
 
