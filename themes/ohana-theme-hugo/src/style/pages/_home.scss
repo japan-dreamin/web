@@ -165,6 +165,15 @@
       background-size: cover;
     }
 
+    @include mq($until: md) {
+      .map {
+        display: block;
+        height: 664px;
+        background-position: 30% center;
+        background-size: cover;
+      }
+    }
+
     .description {
       display: inline-block;
       padding: var(--space-4);
