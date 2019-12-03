@@ -21,12 +21,12 @@ If you wish to become a sponsor, contact us at
 
 <!-- Parteners list -->
 
+<!--
 <section class="content">
 <h2>Coming Soon</h2>
 </section>
+-->
 
-<!--
-{{% partners categories="platinium,gold,startup,soutien,communautes" %}}
+{{% partners categories="lunch,banquet,general" %}}
 
 {{% /partners %}}
--->
