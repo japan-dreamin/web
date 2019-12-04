@@ -3,7 +3,7 @@
 {{ .Content }}
 
 <section>
-	<ul class="talks">
+	<ul class="talks shuffle">
 		{{ $sessions := where .Site.AllPages ".Section" "sessions" }}
 		{{ $types := (slice "long" "short" "keynote") }}
 		{{ range sort $sessions ".Title" }}
