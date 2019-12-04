@@ -2,7 +2,7 @@
 key: heroku_salesforce
 title: SalesforceとHerokuのより良い関係を目指して（たぶん序章）
 language: Japanese
-format: long
+format: short
 tags:
   - codey
 level: intermediate
