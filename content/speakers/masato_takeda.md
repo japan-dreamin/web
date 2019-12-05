@@ -1,6 +1,6 @@
 ---
 key: masato_takeda
-name: Masato Takeda
+name: Masato Takéda
 id: 
 feature: true
 title: CEO
