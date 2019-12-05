@@ -118,9 +118,8 @@ Japan Dreamin' は Salesforce のコミュニティカンファレンスです�
 
 <!-- ... --> 
 
-<!--
-{{% partners categories="platinium,gold,startup,soutien,communautes" %}}
-## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="CALL_FOR_SPEAKERS_URL" target="_blank">Become a sponsor</a>
+{{% partners categories="lunch,banquet,general,special" %}}
+
+## Sponsors
 
 {{% /partners %}}
--->

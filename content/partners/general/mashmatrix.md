@@ -2,7 +2,7 @@
 key: MashMatrix
 title: 株式会社マッシュマトリックス
 category: general
-order: 30
+order: 10
 logo: /images/partners/mashmatrix.png
 website: 'https://www.mashmatrix.co.jp/'
 lang: ja
