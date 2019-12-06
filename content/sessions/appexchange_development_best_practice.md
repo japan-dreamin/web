@@ -1,5 +1,5 @@
 ---
-key: appexchange-development-best-practice
+key: appexchange_development_best_practice
 title: AppExchangeプロダクト開発を続けて見えてきたプラクティス
 language: Japanese
 format: short

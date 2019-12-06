@@ -1,5 +1,5 @@
 ---
-key: lex-mobile-history
+key: lex_mobile_history
 title: LEX Mobileから紐解くSalesforceモバイル史
 language: Japanese
 format: short

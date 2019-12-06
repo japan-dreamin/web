@@ -1,5 +1,5 @@
 ---
-key: einstein
+key: einstein_prediction_builder
 title: Einstein予測ビルダーを使って商談成約率をアップ！ 
 language: Japanese
 format: short
