@@ -2,7 +2,7 @@
 key: technical_architect_workshop
 title: 【アドミン/デベロッパー向け】ハンズオンで学ぶ！テクニカルアーキテクト体験ワークショップ
 language: Japanese
-format: long
+format: workshop
 tags:
   - earnie
 level: intermediate
