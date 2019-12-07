@@ -6,6 +6,4 @@ photo: takahito_miyamoto.jpg
 socials:
   - link: 'https://www.twitter.com/takahito0508'
     name: Twitter
-
 ---
-
