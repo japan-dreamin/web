@@ -9,6 +9,7 @@ level: beginner
 speakers:
   - mihoko_yamashita
   - rie_endo
+  - yukiko_tanaka
 presentation: 
 draft: false
 ---
