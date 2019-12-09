@@ -6,7 +6,7 @@ feature: true
 title: 'Developer Group Leader'
 company: FLECT
 city: 'Tokyo'
-photoURL: /images/speakers/ryosuke_kobayashi.png
+photoURL: /images/speakers/ryosuke_kobayashi.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/ryosuke921186'
