@@ -65,6 +65,12 @@ Japan Dreamin' のスポンサーシップは、ただお金の支援のみで�
 * 懇親会セッション
   * 懇親会時のLightning Talkセッションで枠をご用意します。セッション時間は最大15分を予定しています。
 
+### 備考
+* 協賛費用の振込については、請求書発行となります。
+* 請求書は、12月中に発行し、期日はイベント後、1月末を予定しております。
+  * 個別対応が必要な場合はお申し付けください。
+* 支払い先は、当運営委員会の口座宛となります。(Japan Dreamin' 運営委員会で保有しているゆうちょ銀行の口座宛)
+
 {{< button-link label="スポンサー応募フォームへ"
                 url="https://docs.google.com/forms/d/e/1FAIpQLSfrmgWh4aZ5jLGGkrCWSzCmLE2C0GoN--to17MAvi-el5ip5g/viewform?usp=sf_link"
                 icon="direction" >}} 
