@@ -4,7 +4,7 @@ title: Salesforce×コミュニティ×私のキャリア
 language: Japanese
 format: short
 tags:
-  - blaze
+  - codey
 level: beginner
 speakers:
   - ryosuke_kobayashi
