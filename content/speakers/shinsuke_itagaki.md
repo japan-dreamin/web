@@ -4,7 +4,7 @@ name: Shinsuke Itagaki
 id: 
 feature: true
 title: 
-company: エムオーテックス株式会社
+company: HENNGE株式会社
 city: Tokyo
 photoURL: /images/speakers/shinsuke_itagaki.jpg
 socials:
