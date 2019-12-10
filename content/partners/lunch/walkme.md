@@ -2,7 +2,7 @@
 key: WalkMe
 title: WalkMe
 category: lunch
-order: 20
+order: 12
 logo: /images/partners/walkme.png
 website: 'https://walkme.co.jp/'
 lang: ja
