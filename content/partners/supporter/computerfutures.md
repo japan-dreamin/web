@@ -1,7 +1,7 @@
 ---
 key: computerfutures
 title: Computer Futures
-category: general
+category: supporter
 order: 31
 logo: /images/partners/computerfutures.png
 website: 'https://www.computerfutures.com/'
