@@ -2,9 +2,9 @@
 key: salesforce_for_beginners
 title: 0から学ぶ！Salesforceの基礎の基礎
 language: Japanese
-format: long
+format: short
 tags:
-  - blaze
+  - codey
 level: beginner
 speakers:
   - yuriko_maeda
