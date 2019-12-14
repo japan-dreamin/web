@@ -8,6 +8,8 @@ tags:
 level: beginner
 speakers:
   - atsushi_kamimura
+  - ayaka_muraki
+  - satomi_oura
   - shinsuke_itagaki
 presentation: 
 draft: false
