@@ -4,7 +4,7 @@ name: Ayaka Muraki
 id: 
 feature: true
 title: 
-company: 株式会社HEAVEN Japna
+company: 株式会社HEAVEN Japan
 city: Osaka
 photoURL: /images/speakers/ayaka_muraki.jpg
 socials:
