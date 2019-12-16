@@ -5,7 +5,7 @@ id:
 feature: true
 title: 
 company: HENNGE株式会社
-city: Tokyo
+city: Osaka
 photoURL: /images/speakers/shinsuke_itagaki.jpg
 socials:
   - icon: twitter

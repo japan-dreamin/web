@@ -5,7 +5,7 @@ id:
 feature: true
 title: 
 company: 株式会社HEAVEN Japna
-city: Tokyo
+city: Osaka
 photoURL: /images/speakers/ayaka_muraki.jpg
 socials:
   - icon: twitter
