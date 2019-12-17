@@ -2,7 +2,7 @@
 key: tambourine
 title: 株式会社タンバリン
 category: supporter
-order: 33
+order: 35
 logo: /images/partners/tambourine.png
 website: 'https://www.tam-bourine.co.jp/'
 lang: ja
