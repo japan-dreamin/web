@@ -38,6 +38,12 @@
   }
 }
 
+.partners-group.partner-lunch ul li,
+.partners-group.partner-banquet ul li {
+  height: var(--partner-lb-height);
+  flex-basis: 320px;
+}
+
 .partners-group.partner-platinium ul li {
   height: var(--partner-platinum-height);
   flex-basis: 240px;
