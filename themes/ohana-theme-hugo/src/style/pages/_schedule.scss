@@ -25,7 +25,7 @@
       text-align: center;
 
       color: var(--primary);
-      background-colorcolo: var(--primary-txt);
+      background-color: var(--primary-txt);
 
       &.active {
         background-color: var(--primary);
@@ -109,8 +109,8 @@
       }
 
       h4 {
-        color: white;
-        text-shadow: 2px 1px 1px black;
+        /* color: white; */
+        /* text-shadow: 2px 1px 1px black; */
       }
     }
 
@@ -260,9 +260,17 @@
       grid-column: calc(var(--room) + 2);
       grid-row: var(--start) / var(--end);
 
-      &.tag-open, &.tag-lunch, &.tag-party {
+      &.tag-lunch, &.tag-party {
         h4 {
-          font-size: 2em;
+          font-size: 1em;
+        }
+      }
+
+      &.tag-open {
+        h4 {
+          color: inherit;
+          text-shadow: none;
+          font-size: 1em;
         }
       }
 
