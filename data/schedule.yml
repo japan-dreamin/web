@@ -56,7 +56,7 @@
     - room: room2
       slots:
         - slot: slot-1
-          talk: dont_stop_deploying
+          talk: tba
         - slot: pause-1
           talk: __pause
         - slot: slot-2
@@ -86,7 +86,7 @@
         - slot: pause-6
           talk: __pause
         - slot: slot-7
-          talk: tba
+          talk: dont_stop_deploying
         - slot: pause-7
           talk: __pause
         - slot: slot-8

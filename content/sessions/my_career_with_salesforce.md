@@ -1,10 +1,10 @@
 ---
 key: my_career_with_salesforce
-title: TBA
+title: My Career with Salesforce
 language: Japanese
-format: short
+format: long
 tags:
-  - tba
+  - blaze
 level: beginner
 speakers:
   - nana_eto
