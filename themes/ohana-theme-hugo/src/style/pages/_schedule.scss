@@ -274,9 +274,14 @@
         }
       }
 
-      &.tag-open, &.tag-pause, &.tag-lunch, &.tag-party {
+      &.tag-pause {
         grid-column: 2 / -1;
         z-index: 0;
+      }
+      
+      &.tag-open, &.tag-lunch, &.tag-party {
+        grid-column: 2 / -1;
+        z-index: 1;
       }
 
       &.tag-office-hours {
