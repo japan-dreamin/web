@@ -40,7 +40,7 @@
         - slot: slot-6
           talk: admin_career_lex
         - slot: pause-6
-          talk: __pause
+          talk: __pause_single
         - slot: slot-7
           talk: sdgs
         - slot: pause-7
@@ -84,7 +84,7 @@
         - slot: slot-6
           talk: developer_community_career
         - slot: pause-6
-          talk: __pause
+          talk: __pause_single
         - slot: slot-7
           talk: dont_stop_deploying
         - slot: pause-7
@@ -120,7 +120,7 @@
         - slot: slot-6
           talk: education
         - slot: pause-6
-          talk: __pause
+          talk: __pause_single
         - slot: slot-7
           talk: pardot
         - slot: pause-7
@@ -156,7 +156,7 @@
         - slot: slot-6
           talk: community_builder
         - slot: pause-6
-          talk: __pause
+          talk: __pause_single
         - slot: slot-7
           talk: from_idea_to_feature
         - slot: pause-7
@@ -167,3 +167,5 @@
       slots:
         - slot: workshop-1
           talk: technical_architect_workshop
+        - slot: workshop-3
+          talk: badgethon

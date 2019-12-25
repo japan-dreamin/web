@@ -124,6 +124,12 @@
   row:
     start: 36
     end: 37
+- key: workshop-3
+  start: '15:00'
+  duration: 50
+  row:
+    start: 37
+    end: 42
 - key: slot-6
   start: '15:00'
   duration: 20
