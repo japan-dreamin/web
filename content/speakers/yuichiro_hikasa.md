@@ -6,7 +6,7 @@ feature: false
 title:
 company: Salesforce.com
 city: Tokyo
-photoURL: /images/team/yuichiro_hikasa.jpg
+photoURL: /images/speakers/yuichiro_hikasa.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/HikaSaaSy'

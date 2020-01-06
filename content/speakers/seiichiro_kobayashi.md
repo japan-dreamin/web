@@ -6,7 +6,7 @@ feature: false
 title:
 company: Accenture
 city: Tokyo
-photoURL: /images/team/seiichiro_kobayashi.jpg
+photoURL: /images/speakers/seiichiro_kobayashi.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/SergioSFDCCTA'
