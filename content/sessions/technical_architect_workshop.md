@@ -10,6 +10,9 @@ speakers:
   - takahito_miyamoto
   - hiroki_iida
   - yosuke_suyama
+  - shun_kosaka
+  - yuichiro_hikasa
+  - seiichiro_kobayashi
 presentation:
 draft: false
 ---
