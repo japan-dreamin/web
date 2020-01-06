@@ -25,7 +25,7 @@
       text-align: center;
 
       color: var(--primary);
-      background-colorcolo: var(--primary-txt);
+      background-color: var(--primary-txt);
 
       &.active {
         background-color: var(--primary);
@@ -67,6 +67,7 @@
 
       font-size: 1.5em;
       display: flex;
+      flex-direction: column;
       justify-content: center;
       align-items: center;
       width: 100%;
@@ -86,7 +87,7 @@
   .start {
     position: absolute;
     top: 0;
-    left: -3.5ch;
+    left: -2ch;
   }
 
   .slot {
@@ -99,7 +100,7 @@
     margin: 1rem 1rem 1rem 5ch;
     border-radius: var(--space-2);
 
-    &.tag-open, &.tag-pause, &.tag-lunch, &.tag-party {
+    &.tag-open, &.tag-pause, &.tag-pause-single, &.tag-lunch, &.tag-party {
       background-position: center center;
       background-size: cover;
       pointer-events: none;
@@ -109,19 +110,19 @@
       }
 
       h4 {
-        color: white;
-        text-shadow: 2px 1px 1px black;
+        /* color: white; */
+        /* text-shadow: 2px 1px 1px black; */
       }
     }
 
-    &.tag-open, &.tag-pause, &.tag-lunch, &.tag-party, &.tag-office-hours {
+    &.tag-open, &.tag-pause, &.tag-pause-single, &.tag-lunch, &.tag-party, &.tag-office-hours {
       .tags {
         display: none;
       }
     }
 
     .slot {
-      display: none;
+      display: block;
     }
 
     & > a {
@@ -252,7 +253,7 @@
 
     .session {
       margin: .125em;
-      z-index: 1;
+      z-index: 2;
 
       --start: calc(1 + var(--row-start));
       --end: calc(1 + var(--row-end));
@@ -260,15 +261,32 @@
       grid-column: calc(var(--room) + 2);
       grid-row: var(--start) / var(--end);
 
+      &.tag-pause {
+        grid-column: 2 / -1;
+        z-index: 0;
+      }
+
+      &.tag-pause-single {
+        z-index: 0;
+      }
+      
       &.tag-open, &.tag-lunch, &.tag-party {
+        grid-column: 2 / -1;
+        z-index: 1;
+      }
+
+      &.tag-lunch, &.tag-party {
         h4 {
-          font-size: 2em;
+          font-size: 1em;
         }
       }
 
-      &.tag-open, &.tag-pause, &.tag-lunch, &.tag-party {
-        grid-column: 2 / -1;
-        z-index: 0;
+      &.tag-open {
+        h4 {
+          color: inherit;
+          text-shadow: none;
+          font-size: 1em;
+        }
       }
 
       &.tag-office-hours {
@@ -284,11 +302,24 @@
         justify-content: space-evenly;
 
         .speaker {
+          position: relative;
+          border-top: none;
+
           .speaker-img {
             margin-right: var(--space-1);
           }
 
           .speaker-name {
+            background: var(--base);
+            z-index: 100;
+            border-radius: var(--space-2);
+            border: thin solid var(--darken-1);
+            box-shadow: 1px 1px var(--space-1) var(--darken-1);
+            padding: var(--space-1);
+            position: absolute;
+            top: 0;
+            right: 0;
+            transform: translateX(50%) translateY(-75%);
             display: none;
           }
 
@@ -413,7 +444,11 @@
 
     .speaker {
       .speaker-name {
+        position: relative;
+        transform: none;
+        border: none;
         display: block;
+        box-shadow: none;
       }
     }
   }

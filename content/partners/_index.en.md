@@ -27,6 +27,6 @@ If you wish to become a sponsor, contact us at
 </section>
 -->
 
-{{% partners categories="lunch,banquet,general,special" %}}
+{{% partners categories="lunch,banquet,supporter,special" %}}
 
 {{% /partners %}}

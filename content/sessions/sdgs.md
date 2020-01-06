@@ -1,5 +1,5 @@
 ---
-key: sdfs
+key: sdgs
 title: 世界を持続可能に変革する。SDGs入門
 language: Japanese
 format: long
@@ -9,6 +9,7 @@ level: beginner
 speakers:
   - mihoko_yamashita
   - rie_endo
+  - yukiko_tanaka
 presentation: 
 draft: false
 ---

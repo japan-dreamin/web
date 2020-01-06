@@ -113,7 +113,7 @@ Tickets are available! You'll be redirect to the external payment page.
 
 <!-- ... --> 
 
-{{% partners categories="lunch,banquet,general,special" %}}
+{{% partners categories="lunch,banquet,supporter,special" %}}
 
 ## Sponsors
 

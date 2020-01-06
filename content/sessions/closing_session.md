@@ -4,7 +4,7 @@ title: クロージングセッション
 language: English
 format: keynote
 tags:
-  - astro
+  - open
 level: beginner
 speakers:
   - mallory_ranahan
