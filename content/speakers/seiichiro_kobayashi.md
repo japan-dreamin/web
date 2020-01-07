@@ -12,3 +12,5 @@ socials:
     link: 'https://twitter.com/SergioSFDCCTA'
     name: SergioSFDCCTA
 ---
+
+クラウド中心のソリューションアーキテクチャ設計に情熱を傾ける。技術的、業務的に価値のあるソリューションをマーケティング、営業からカスタマサービスまで広義な CRM で提供する事が信条。Salesforce 認定テクニカルアーキテクト。
