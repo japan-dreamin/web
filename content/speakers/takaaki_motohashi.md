@@ -2,7 +2,7 @@
 key: takaaki_motohashi
 name: Takaaki Motohashi
 id: 
-feature: true
+feature: false
 title: 
 company: 株式会社Sharing Innovations
 city: Tokyo

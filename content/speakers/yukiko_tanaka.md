@@ -2,7 +2,7 @@
 key: yukiko_tanaka
 name: Yukiko Tanaka
 id: 
-feature: true
+feature: false
 title: Director, Marketing & Communication
 company: TerraSky Co., Ltd.
 city: Tokyo

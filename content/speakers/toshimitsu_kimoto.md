@@ -2,7 +2,7 @@
 key: toshimitsu_kimoto
 name: Toshimitsu Kimoto
 id: 
-feature: true
+feature: false
 title: 事業戦略部長
 company: 株式会社 スタディスト
 city: Tokyo

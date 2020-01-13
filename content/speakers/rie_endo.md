@@ -2,7 +2,7 @@
 key: rie_endo
 name: Rie Endo
 id: 
-feature: true
+feature: false
 title: VP, Sustainability & Corporate Relations
 company: Salesforce
 city: 'Tokyo'

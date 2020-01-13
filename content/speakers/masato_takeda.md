@@ -2,7 +2,7 @@
 key: masato_takeda
 name: Masato Takéda
 id: 
-feature: true
+feature: false
 title: CEO
 company: Tekuru
 city: Tokyo

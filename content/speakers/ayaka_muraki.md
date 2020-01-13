@@ -2,7 +2,7 @@
 key: ayaka_muraki
 name: Ayaka Muraki
 id: 
-feature: true
+feature: false
 title: 
 company: 株式会社HEAVEN Japan
 city: Osaka

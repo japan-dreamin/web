@@ -2,7 +2,7 @@
 key: satomi_oura
 name: Satomi Oura
 id: 
-feature: true
+feature: false
 title: 
 company: 共同印刷株式会社
 city: Tokyo

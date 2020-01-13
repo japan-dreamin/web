@@ -2,7 +2,7 @@
 key: shinsuke_itagaki
 name: Shinsuke Itagaki
 id: 
-feature: true
+feature: false
 title: 
 company: HENNGE株式会社
 city: Osaka

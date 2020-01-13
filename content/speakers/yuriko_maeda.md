@@ -2,7 +2,7 @@
 key: yuriko_maeda
 name: Yuriko Maeda
 id: 
-feature: true
+feature: false
 title: 
 company: Nihon System & Design Inc.
 city: Tokyo

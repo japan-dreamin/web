@@ -2,7 +2,7 @@
 key: shun_kosaka
 name: Shun Kosaka
 id: 
-feature: true
+feature: false
 title: 
 company: Accenture
 city: Tokyo

@@ -2,7 +2,7 @@
 key: mihoko_yamashita
 name: Mihoko Yamashita
 id: 
-feature: true
+feature: false
 title: Chief, PR & Engagement
 company: 認定NPO法人 ACE
 city: 'Tokyo'

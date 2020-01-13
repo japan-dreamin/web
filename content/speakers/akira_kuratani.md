@@ -2,7 +2,7 @@
 key: akira_kuratani
 name: Akira Kuratani
 id: 
-feature: true
+feature: false
 title: Salesforce MVP
 company: TeamSpirit Inc.
 city: Tokyo

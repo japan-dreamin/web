@@ -2,7 +2,7 @@
 key: atsushi_kamimura
 name: Atsushi Kamimura
 id: 
-feature: true
+feature: false
 title: Director, Marketing
 company: 株式会社ブレインパッド
 city: Tokyo

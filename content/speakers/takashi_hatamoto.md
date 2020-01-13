@@ -2,7 +2,7 @@
 key: takashi_hatamoto
 name: Takashi Hatamoto
 id: 
-feature: true
+feature: false
 title: 
 company: TeamSpirit Inc.
 city: Tokyo

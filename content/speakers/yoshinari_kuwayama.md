@@ -2,7 +2,7 @@
 key: yoshinari_kuwayama
 name: Yoshinari Kuwayama
 id: 
-feature: true
+feature: false
 title: Kyoto Developer Group Leader
 company: infonic co,.Ltd
 city: Kyoto
