@@ -8,6 +8,8 @@ tags:
 level: beginner
 speakers:
   - nana_eto
+  - eiki_naoko
+  - keiko_niimi
 presentation: 
 draft: false
 ---
