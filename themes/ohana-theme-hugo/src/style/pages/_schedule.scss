@@ -300,6 +300,7 @@
       .speakers.multi {
         display: flex;
         justify-content: space-evenly;
+        flex-wrap: wrap;
 
         .speaker {
           position: relative;
