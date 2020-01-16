@@ -12,7 +12,7 @@ Japan Dreamin' にご協賛いただいているスポンサーの企業・団�
 {{% /hero %}}
 
 
-{{% partners categories="lunch,banquet,supporter,special" %}}
+{{% partners categories="special,lunch,banquet,supporter" %}}
 
 掲載はアルファベット順です。
 
