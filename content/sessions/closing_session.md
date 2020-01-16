@@ -1,13 +1,13 @@
 ---
 key: closing_session
-title: クロージングセッション
+title: Closing Keynote - Power of Trailblazer Community
 language: English
 format: keynote
 tags:
   - open
 level: beginner
 speakers:
-  - mallory_ranahan
+  - alex_pisani
 presentation: 
 draft: false
 ---
