@@ -20,7 +20,7 @@
         - slot: lunch
           talk: __lunch
         - slot: lunch-session
-          talk: sponsor_lunch1
+          talk: sponsor_lunch_walkme
         - slot: pause-2
           talk: __pause
         - slot: slot-3-1
@@ -64,7 +64,7 @@
         - slot: lunch
           talk: __lunch
         - slot: lunch-session
-          talk: sponsor_lunch2
+          talk: sponsor_lunch_opro
         - slot: pause-2
           talk: __pause
         - slot: slot-3-1
@@ -102,7 +102,7 @@
         - slot: pause-2
           talk: __pause
         - slot: lunch-session
-          talk: sponsor_lunch3
+          talk: sponsor_lunch_teamspirit
         - slot: pause-2
           talk: __pause
         - slot: slot-3
@@ -138,7 +138,7 @@
         - slot: slot-2
           talk: scheduled_flow
         - slot: lunch-session
-          talk: sponsor_lunch4
+          talk: sponsor_lunch_uhuru
         - slot: pause-2
           talk: __pause
         - slot: slot-3
