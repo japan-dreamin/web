@@ -55,8 +55,6 @@
           talk: __party
     - room: room2
       slots:
-        - slot: slot-1
-          talk: tba
         - slot: pause-1
           talk: __pause
         - slot: slot-2
@@ -93,8 +91,6 @@
           talk: jsforce_2_0
     - room: room3
       slots:
-        - slot: slot-1
-          talk: tba
         - slot: pause-1
           talk: __pause
         - slot: slot-2
