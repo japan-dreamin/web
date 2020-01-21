@@ -76,7 +76,7 @@
         - slot: pause-4
           talk: __pause
         - slot: slot-5
-          talk: tba
+          talk: mulesoft
         - slot: pause-5
           talk: __pause
         - slot: slot-6
@@ -163,5 +163,8 @@
       slots:
         - slot: workshop-1
           talk: technical_architect_workshop
+        - slot: workshop-2
+          talk: terakoya
         - slot: workshop-3
           talk: badgethon
+      

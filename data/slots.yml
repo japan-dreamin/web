@@ -81,7 +81,7 @@
   duration: 50
   row:
     start: 20
-    end: 26
+    end: 28
 - key: pause-3
   start: '13:40'
   duration: 5
@@ -100,6 +100,12 @@
   row:
     start: 27
     end: 30
+- key: workshop-2
+  start: '14:00'
+  duration: 50
+  row:
+    start: 29
+    end: 36
 - key: slot-4-2
   start: '14:10'
   duration: 20
@@ -148,6 +154,12 @@
   row:
     start: 41
     end: 46
+- key: workshop-4
+  start: '16:00'
+  duration: 50
+  row:
+    start: 45
+    end: 52
 - key: pause-7
   start: '16:05'
   duration: 5
