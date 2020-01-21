@@ -4,7 +4,7 @@ title: 何故、今、学生コミュニティに関わるのか
 language: Japanese
 format: short
 tags:
-  - tba
+  - community
 level: beginner
 speakers:
   - hirokazu_hayai
