@@ -262,7 +262,7 @@
       grid-row: var(--start) / var(--end);
 
       &.tag-pause {
-        grid-column: 2 / -1;
+        grid-column: 2 / 6;
         z-index: 0;
       }
 
