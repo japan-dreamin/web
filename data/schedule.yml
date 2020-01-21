@@ -160,7 +160,7 @@
         - slot: pause-7
           talk: __pause
         - slot: slot-8
-          talk: japan_salesforce_community
+          talk: evangelists_panel
     - room: workshop
       slots:
         - slot: workshop-1
