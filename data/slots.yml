@@ -135,7 +135,7 @@
   duration: 50
   row:
     start: 37
-    end: 42
+    end: 43
 - key: slot-6
   start: '15:00'
   duration: 20
@@ -171,24 +171,30 @@
   duration: 40
   row:
     start: 47
-    end: 52
+    end: 53
 - key: slot-8-1
   start: '16:10'
   duration: 20
   row:
     start: 47
     end: 50
+- key: slot-8-2
+  start: '16:30'
+  duration: 20
+  row:
+    start: 50
+    end: 53
 - key: pause-8
-  start: '16:50'
+  start: '17:00'
   duration: 10
   row:
-    start: 52
-    end: 53
+    start: 53
+    end: 54
 - key: closing
-  start: '17:00'
+  start: '17:10'
   duration: 40
   row:
-    start: 53
+    start: 54
     end: 56
 - key: party
   start: '17:40'

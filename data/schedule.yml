@@ -40,7 +40,7 @@
         - slot: slot-6
           talk: admin_career_lex
         - slot: pause-6
-          talk: __pause_single
+          talk: __pause
         - slot: slot-7
           talk: sdgs
         - slot: pause-7
@@ -82,7 +82,7 @@
         - slot: slot-6
           talk: developer_community_career
         - slot: pause-6
-          talk: __pause_single
+          talk: __pause
         - slot: slot-7
           talk: dont_stop_deploying
         - slot: pause-7
@@ -116,13 +116,15 @@
         - slot: slot-6
           talk: education
         - slot: pause-6
-          talk: __pause_single
+          talk: __pause
         - slot: slot-7
           talk: pardot
         - slot: pause-7
           talk: __pause
         - slot: slot-8-1
           talk: einstein_prediction_builder
+        - slot: slot-8-2
+          talk: japan_salesforce_community
     - room: room4
       slots:
         - slot: pause-1
@@ -152,7 +154,7 @@
         - slot: slot-6
           talk: community_builder
         - slot: pause-6
-          talk: __pause_single
+          talk: __pause
         - slot: slot-7
           talk: from_idea_to_feature
         - slot: pause-7
@@ -167,4 +169,6 @@
           talk: terakoya
         - slot: workshop-3
           talk: badgethon
+        - slot: workshop-4
+          talk: sctb
       
