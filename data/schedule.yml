@@ -124,7 +124,7 @@
         - slot: slot-8-1
           talk: einstein_prediction_builder
         - slot: slot-8-2
-          talk: japan_salesforce_community
+          talk: trailhead
     - room: room4
       slots:
         - slot: pause-1
@@ -160,7 +160,7 @@
         - slot: pause-7
           talk: __pause
         - slot: slot-8
-          talk: tba
+          talk: japan_salesforce_community
     - room: workshop
       slots:
         - slot: workshop-1
