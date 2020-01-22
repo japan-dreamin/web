@@ -26,7 +26,7 @@
         - slot: slot-3-1
           talk: utilization
         - slot: slot-3-2
-          talk: adoption_customer_stories
+          talk: blank
         - slot: pause-3
           talk: __pause
         - slot: slot-4-1
@@ -124,7 +124,7 @@
         - slot: slot-8-1
           talk: einstein_prediction_builder
         - slot: slot-8-2
-          talk: trailhead
+          talk: trailhead_career
     - room: room4
       slots:
         - slot: pause-1
