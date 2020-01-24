@@ -1,7 +1,7 @@
 ---
 key: sponsor_lunch_teamspirit
 title: プロダクトマネージャーとして成長するのに必要なスキルとマインドセット
-format: short
+format: long
 tags:
   - sponsor
 speakers: 

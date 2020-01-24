@@ -1,7 +1,7 @@
 ---
 key: sponsor_lunch_opro
 title: パートナーとのビジネスを広げるmy Trailhead for Partner Community
-format: short
+format: long
 tags:
   - sponsor
 speakers:
