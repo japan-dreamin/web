@@ -7,6 +7,7 @@ tags:
   - earnie
 level: beginner
 speakers:
+  - team_terakoya
 presentation: 
 draft: false
 ---
