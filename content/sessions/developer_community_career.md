@@ -8,7 +8,7 @@ tags:
 level: beginner
 speakers:
   - ryosuke_kobayashi
-presentation: 
+presentation: https://www.slideshare.net/RyosukeKobayashi8/salesforcehjapandreamin
 draft: false
 ---
 Salesforceに7年、コミュニティの運営に2年間携わってみて、自分のキャリアがどう変わったかを（ゆるーく）お話したいと思います。
