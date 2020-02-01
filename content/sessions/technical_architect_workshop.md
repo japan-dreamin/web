@@ -13,7 +13,7 @@ speakers:
   - shun_kosaka
   - yuichiro_hikasa
   - seiichiro_kobayashi
-presentation:
+presentation: http://j.mp/archjapan-jd2020
 draft: false
 ---
 

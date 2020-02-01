@@ -8,7 +8,7 @@ tags:
 level: advanced
 speakers:
   - takahito_miyamoto
-presentation:
+presentation: https://www.slideshare.net/takahito0508/dont-stop-deploying-sfdx
 draft: false
 ---
 

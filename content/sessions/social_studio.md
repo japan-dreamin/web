@@ -8,7 +8,7 @@ tags:
 level: intermediate
 speakers:
   - ines_garcia
-presentation: 
+presentation: https://docs.google.com/presentation/d/1h-AksYTOEGqoaVhSF7b6RcvKNp-ZGB_M7Fnqen2tQqY/edit?usp=sharing
 draft: false
 ---
 Lets navigate Social Studio in demo mode! By the end of the session you will know how to use this tool. Learn how to listen, engage, publish and analyse using this powerful all-in-one social media marketing and management suite, some of the pickles, the hub automation extension and the current connector integration and why in my opinion is a kerfuffle.

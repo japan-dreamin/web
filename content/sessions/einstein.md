@@ -8,7 +8,7 @@ tags:
 level: intermediate
 speakers:
   - george_yoshida
-presentation: 
+presentation: https://docs.google.com/presentation/d/1iUanWl8mbxsGPWjL6vkwuZeF6Pan7jV4LEtXOy3fdyE/edit#slide=id.p1
 draft: false
 ---
 DreamforceのEinsteinキーノート登壇に至った背景。

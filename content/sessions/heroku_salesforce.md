@@ -8,7 +8,7 @@ tags:
 level: intermediate
 speakers:
   - takahiro_yonei
-presentation: 
+presentation: https://www.slideshare.net/yonet77/salesforceheroku
 draft: false
 ---
 Salesforceを取り巻く環境は日々進化しており、昨今ではSalesforce単体ではなく様々なクラウドと組み合わせてサービスを提供することが多くなってきていると思います。

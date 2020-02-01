@@ -8,7 +8,7 @@ tags:
 level: beginner
 speakers:
   - takashi_hatamoto
-presentation: 
+presentation: https://www.slideshare.net/TakashiHatamoto/lexsalesforce
 draft: false
 ---
 Lightning Championとして何か一つ、と考えて最近の主要アップデートであるLEX Mobileを題材にしてみました。

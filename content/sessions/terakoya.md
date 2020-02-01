@@ -8,6 +8,6 @@ tags:
 level: beginner
 speakers:
   - team_terakoya
-presentation: 
+presentation: https://www.slideshare.net/ssuser123ee3/terakoyaforce-200125-ver2-225526962
 draft: false
 ---
