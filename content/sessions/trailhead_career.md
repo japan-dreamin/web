@@ -8,7 +8,7 @@ tags:
 level: beginner
 speakers:
   - toru_inoue
-presentation: 
+presentation: https://drive.google.com/file/d/12xYLrZYInsGPjFNWiIqPiBXxKvINQ9XG/view
 draft: false
 ---
 非SalesforceエンジニアがSalesforceに出会いキャリアを築いていった経緯とこれからのDeveloperキャリアについて話します。
