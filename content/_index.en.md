@@ -12,8 +12,6 @@ menu:
 ## January 25th, 2020
 ### Abema Towers, Shibuya, Tokyo
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://japandreamin.doorkeeper.jp/events/98845?locale=en&switch_locale=true" target="_blank">Register Now</a> 
-
 <!--
 <a class="btn primary btn-lg" href="CALL_FOR_SPEAKERS_URL">
     <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a presentation
