@@ -1,7 +1,7 @@
 baseURL = "http://www.japandreamin.com/"
 languageCode = "ja"
 defaultContentLanguage = "ja"
-title = "Japan Dreamin'"
+title = "Japan Dreamin' 2020"
 
 theme = "ohana-theme-hugo"
 
